@@ -1,3 +1,0 @@
-Gym
-Dancing
-Videogames
